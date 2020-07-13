@@ -1,0 +1,13 @@
+---
+output: pdf_document
+header-includes:
+   - \usepackage{chemformula}
+   - \usepackage{amsmath}
+---
+\pagenumbering{gobble}
+
+\begin{center}
+\huge
+Insert Title Here
+\vskip 0.2in
+\end{center}
